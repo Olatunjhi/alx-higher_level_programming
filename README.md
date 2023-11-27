@@ -1,0 +1,3 @@
+Directory for high level languages that i will like to work with...
+
+i will be update my readme as i am update the directory..
